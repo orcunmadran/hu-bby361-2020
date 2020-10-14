@@ -5,6 +5,7 @@ Hayata geçirilecek veri tabanı, bisiklet üzerine kitapların yer aldığı bi
 
 2) Veri tabanı hangi ihtiyaçları karşılayacak?
 - Kitapların künye bilgileri sorgulanabilecektir.
+- - 
 - Yayınevi bilgileri sorgulanabilecektir.
 - Yazarlar bilgileri ve detaylı bağlantıları sorgulanabilecektir.
 - Kütüphanede o kitaptan kaç kopya olduğu sorgulanabilecektir.
@@ -16,10 +17,21 @@ Hayata geçirilecek veri tabanı, bisiklet üzerine kitapların yer aldığı bi
 
 4) Veri tabanında ne tür veriler depolanacak?
 - Kitap verileri
-- - 
+- - ISBN
+- - Eser Adı
+- - Yazar Adı
+- - Basım Yılı
+- - Yayınevi
+- - Dil
+- - Kopya Sayısı
 
 - Yazar verileri
-- -
+- - Yazar No (Otomatik artan)
+- - Yazar Adı
+- - Yazar Soyadı
+- - Yazar URL
 
 - Yayınevi verileri
-- - 
+- - Yayınevi No
+- - Yayınevi Adı
+- - Yayınevi URL
